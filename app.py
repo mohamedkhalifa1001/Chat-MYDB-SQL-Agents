@@ -6,7 +6,7 @@ from groq import Groq
 import re
 
 # Initialize Groq client
-client = Groq(api_key="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")
+client = Groq(api_key="your token")
 
 # Set Streamlit layout to wide
 st.set_page_config(layout="wide")
