@@ -1,0 +1,5 @@
+streamlit
+pypyodbc
+pandas
+groq 
+streamlit-mic
